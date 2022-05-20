@@ -1,0 +1,18 @@
+table{
+    text-align: center;
+    border-collapse: collapse;
+    width: 550px;
+    /* caption-side: top; */
+    /* 캡션의 위치 -bottom(아래쪽) */
+}
+th, td{
+    border: 1px solid #0000ff;
+    height: 30px;
+
+
+}
+thead, tfoot{background-color: #eee;}
+caption{margin: 10px;}
+/* table td:nth-child(1){
+    font-weight: bold;
+} */

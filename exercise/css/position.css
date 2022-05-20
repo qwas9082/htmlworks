@@ -1,0 +1,17 @@
+*{margin: 0; padding: 0;}
+#contents{
+    margin: 50px auto;
+    background: no-repeat;
+    width: 640px;
+    height: 420px;
+    background: url(../images/bg.jpg);
+    background-position: cover;
+    position: relative;
+}
+#contents h1{color: white;
+    font-size: 100px;
+    position: absolute;
+    bottom: 100px;
+    right: 50px;
+    text-shadow: 3px 3px #000;
+}
